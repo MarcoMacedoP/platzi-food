@@ -3,3 +3,21 @@
 @tailwind components;
 
 @tailwind utilities;
+
+.navbar {
+  @apply transition;
+  @apply duration-200;
+  @apply ease-in;
+  transition-property: height;
+  @apply flex;
+  @apply flex-col;
+  @apply p-3;
+  @apply w-screen;
+  @apply z-50;
+  @apply fixed;
+  @apply top-0;
+  @apply left-0;
+  @apply bg-secondary;
+  @apply shadow-2xl;
+  @apply h-12;
+}
