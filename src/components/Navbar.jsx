@@ -6,6 +6,7 @@ export default () => {
       class="
       flex justify-between items-center
       p-3 w-screen 
+      z-50
       fixed top-0 left-0 
       bg-secondary  shadow-2xl"
     >
