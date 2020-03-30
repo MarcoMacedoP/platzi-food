@@ -19,8 +19,8 @@ export default ({
       "
     >
       <img
-        className="rounded-lg mb-3 w-full h-full object-cover 
-        lg:h-40 "
+        className="rounded-lg mb-3 w-full h-full object-cover object-center
+        lg:h-40"
         src={image}
         alt=""
       />

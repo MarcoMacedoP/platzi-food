@@ -6,7 +6,7 @@ import FoodCard from "./FoodCard";
 export default () => {
   return (
     <div
-      className="p-6 mt-16 flex flex-col justify-center items-center
+      className="p-6 mt-2 flex flex-col justify-center items-center
             md:flex-wrap md:flex-row"
     >
       {foods.map(food => (
