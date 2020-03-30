@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/platzi-food/static/css/main.f2fbe301.chunk.css",
+    "main.js": "/platzi-food/static/js/main.7a7ab78e.chunk.js",
+    "main.js.map": "/platzi-food/static/js/main.7a7ab78e.chunk.js.map",
+    "runtime-main.js": "/platzi-food/static/js/runtime-main.6ca3c254.js",
+    "runtime-main.js.map": "/platzi-food/static/js/runtime-main.6ca3c254.js.map",
+    "static/js/2.ad796dbf.chunk.js": "/platzi-food/static/js/2.ad796dbf.chunk.js",
+    "static/js/2.ad796dbf.chunk.js.map": "/platzi-food/static/js/2.ad796dbf.chunk.js.map",
+    "index.html": "/platzi-food/index.html",
+    "precache-manifest.65671c8d2802027dabaf2f066c2a2c10.js": "/platzi-food/precache-manifest.65671c8d2802027dabaf2f066c2a2c10.js",
+    "service-worker.js": "/platzi-food/service-worker.js",
+    "static/css/main.f2fbe301.chunk.css.map": "/platzi-food/static/css/main.f2fbe301.chunk.css.map",
+    "static/js/2.ad796dbf.chunk.js.LICENSE.txt": "/platzi-food/static/js/2.ad796dbf.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/platzi-food/static/media/logo.c5309bae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ca3c254.js",
+    "static/js/2.ad796dbf.chunk.js",
+    "static/css/main.f2fbe301.chunk.css",
+    "static/js/main.7a7ab78e.chunk.js"
+  ]
+}
